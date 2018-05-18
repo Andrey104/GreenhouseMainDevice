@@ -1,2 +1,2 @@
-# GreenhouseMasterDevice
+# GreenhouseMainDevice
 Arduino project
